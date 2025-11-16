@@ -18,7 +18,7 @@ I'm always trying to learn more and more, and this repository will show you my e
 ---
 ### ✨ Projects
 
-* ❌ **Project 1:** Through the data predict the type of flower according to its sepal and petula sizes.
+* ❌ **Project 1: Classification of Flower Iris** Through the data predict the type of flower according to its sepal and petula sizes.
 
 ---
 
